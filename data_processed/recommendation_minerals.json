@@ -1,0 +1,232 @@
+[
+  {
+    "record_type": "mineral",
+    "group": "Trẻ em",
+    "age": "< 6 tháng",
+    "calcium_mg": 300,
+    "magnesium_mg": 36,
+    "phosphorus_mg": 90,
+    "selenium_mcg": 6,
+    "source": "nutrition_recommendation_vn.pdf"
+  },
+  {
+    "record_type": "mineral",
+    "group": "Trẻ em",
+    "age": "6-11 tháng",
+    "calcium_mg": 400,
+    "magnesium_mg": 54,
+    "phosphorus_mg": 275,
+    "selenium_mcg": 10,
+    "source": "nutrition_recommendation_vn.pdf"
+  },
+  {
+    "record_type": "mineral",
+    "group": "Trẻ nhỏ",
+    "age": "1-3 tuổi",
+    "calcium_mg": 500,
+    "magnesium_mg": 65,
+    "phosphorus_mg": 460,
+    "selenium_mcg": 17,
+    "source": "nutrition_recommendation_vn.pdf"
+  },
+  {
+    "record_type": "mineral",
+    "group": "Trẻ nhỏ",
+    "age": "4-6 tuổi",
+    "calcium_mg": 600,
+    "magnesium_mg": 76,
+    "phosphorus_mg": 500,
+    "selenium_mcg": 22,
+    "source": "nutrition_recommendation_vn.pdf"
+  },
+  {
+    "record_type": "mineral",
+    "group": "Trẻ nhỏ",
+    "age": "7-9 tuổi",
+    "calcium_mg": 700,
+    "magnesium_mg": 100,
+    "phosphorus_mg": 500,
+    "selenium_mcg": 21,
+    "source": "nutrition_recommendation_vn.pdf"
+  },
+  {
+    "record_type": "mineral",
+    "group": "Nam vị thành niên",
+    "age": "10-12 tuổi",
+    "calcium_mg": 1000,
+    "magnesium_mg": 155,
+    "phosphorus_mg": 1250,
+    "selenium_mcg": 32,
+    "source": "nutrition_recommendation_vn.pdf"
+  },
+  {
+    "record_type": "mineral",
+    "group": "Nam vị thành niên",
+    "age": "13-15 tuổi",
+    "calcium_mg": 1000,
+    "magnesium_mg": 225,
+    "phosphorus_mg": 1250,
+    "selenium_mcg": 32,
+    "source": "nutrition_recommendation_vn.pdf"
+  },
+  {
+    "record_type": "mineral",
+    "group": "Nam vị thành niên",
+    "age": "16-18 tuổi",
+    "calcium_mg": 1000,
+    "magnesium_mg": 260,
+    "phosphorus_mg": 1250,
+    "selenium_mcg": 32,
+    "source": "nutrition_recommendation_vn.pdf"
+  },
+  {
+    "record_type": "mineral",
+    "group": "Nam trưởng thành",
+    "age": "19-49 tuổi",
+    "calcium_mg": 700,
+    "magnesium_mg": 205,
+    "phosphorus_mg": 700,
+    "selenium_mcg": 34,
+    "source": "nutrition_recommendation_vn.pdf"
+  },
+  {
+    "record_type": "mineral",
+    "group": "Nam trưởng thành",
+    "age": "50-60 tuổi",
+    "calcium_mg": 1000,
+    "magnesium_mg": 205,
+    "phosphorus_mg": 700,
+    "selenium_mcg": 34,
+    "source": "nutrition_recommendation_vn.pdf"
+  },
+  {
+    "record_type": "mineral",
+    "group": "Nam trưởng thành",
+    "age": ">60 tuổi",
+    "calcium_mg": 1000,
+    "magnesium_mg": 205,
+    "phosphorus_mg": 700,
+    "selenium_mcg": 33,
+    "source": "nutrition_recommendation_vn.pdf"
+  },
+  {
+    "record_type": "mineral",
+    "group": "Nữ vị thành niên",
+    "age": "10-12 tuổi (chưa có kinh nguyệt)",
+    "calcium_mg": 1000,
+    "magnesium_mg": 160,
+    "phosphorus_mg": 1250,
+    "selenium_mcg": 26,
+    "source": "nutrition_recommendation_vn.pdf"
+  },
+  {
+    "record_type": "mineral",
+    "group": "Nữ vị thành niên",
+    "age": "10-12 tuổi",
+    "calcium_mg": 1000,
+    "magnesium_mg": 160,
+    "phosphorus_mg": 1250,
+    "selenium_mcg": 26,
+    "source": "nutrition_recommendation_vn.pdf"
+  },
+  {
+    "record_type": "mineral",
+    "group": "Nữ vị thành niên",
+    "age": "13-15 tuổi",
+    "calcium_mg": 1000,
+    "magnesium_mg": 220,
+    "phosphorus_mg": 1250,
+    "selenium_mcg": 26,
+    "source": "nutrition_recommendation_vn.pdf"
+  },
+  {
+    "record_type": "mineral",
+    "group": "Nữ vị thành niên",
+    "age": "16-18 tuổi",
+    "calcium_mg": 1000,
+    "magnesium_mg": 240,
+    "phosphorus_mg": 1250,
+    "selenium_mcg": 26,
+    "source": "nutrition_recommendation_vn.pdf"
+  },
+  {
+    "record_type": "mineral",
+    "group": "Nữ trưởng thành",
+    "age": "19-49 tuổi",
+    "calcium_mg": 700,
+    "magnesium_mg": 205,
+    "phosphorus_mg": 700,
+    "selenium_mcg": 26,
+    "source": "nutrition_recommendation_vn.pdf"
+  },
+  {
+    "record_type": "mineral",
+    "group": "Nữ trưởng thành",
+    "age": "50-60 tuổi",
+    "calcium_mg": 1000,
+    "magnesium_mg": 205,
+    "phosphorus_mg": 700,
+    "selenium_mcg": 26,
+    "source": "nutrition_recommendation_vn.pdf"
+  },
+  {
+    "record_type": "mineral",
+    "group": "Nữ trưởng thành",
+    "age": "> 60 tuổi",
+    "calcium_mg": 1000,
+    "magnesium_mg": 205,
+    "phosphorus_mg": 700,
+    "selenium_mcg": 25,
+    "source": "nutrition_recommendation_vn.pdf"
+  },
+  {
+    "record_type": "mineral",
+    "group": "Phụ nữ mang thai",
+    "age": "3 tháng đầu",
+    "calcium_mg": 1000,
+    "magnesium_mg": 205,
+    "phosphorus_mg": 700,
+    "selenium_mcg": 26,
+    "source": "nutrition_recommendation_vn.pdf"
+  },
+  {
+    "record_type": "mineral",
+    "group": "Phụ nữ mang thai",
+    "age": "3 tháng giữa",
+    "calcium_mg": 1000,
+    "magnesium_mg": 205,
+    "phosphorus_mg": 700,
+    "selenium_mcg": 28,
+    "source": "nutrition_recommendation_vn.pdf"
+  },
+  {
+    "record_type": "mineral",
+    "group": "Phụ nữ mang thai",
+    "age": "3 tháng cuối",
+    "calcium_mg": 1000,
+    "magnesium_mg": 205,
+    "phosphorus_mg": 700,
+    "selenium_mcg": 30,
+    "source": "nutrition_recommendation_vn.pdf"
+  },
+  {
+    "record_type": "mineral",
+    "group": "Bà mẹ cho con bú (trong suốt cả thời kỳ cho bú)",
+    "age": "6 tháng đầu",
+    "calcium_mg": 1000,
+    "magnesium_mg": 205,
+    "phosphorus_mg": 700,
+    "selenium_mcg": 35,
+    "source": "nutrition_recommendation_vn.pdf"
+  },
+  {
+    "record_type": "mineral",
+    "group": "Bà mẹ cho con bú (trong suốt cả thời kỳ cho bú)",
+    "age": "6 tháng sau",
+    "calcium_mg": 1000,
+    "magnesium_mg": 205,
+    "phosphorus_mg": 700,
+    "selenium_mcg": 42,
+    "source": "nutrition_recommendation_vn.pdf"
+  }
+]

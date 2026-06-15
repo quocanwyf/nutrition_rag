@@ -1,0 +1,48 @@
+{
+  "version": "v5_fixed",
+  "targets": {
+    "router_macro_f1 >= 0.85": true,
+    "numeric_em >= 0.75": true,
+    "text_rouge_l >= 0.40": false,
+    "ragas_faithfulness >= 0.80": true
+  },
+  "scores": {
+    "L1_router_macro_f1": 1.0,
+    "L2_retrieval": {
+      "bm25": {
+        "R@1": 0.55,
+        "R@3": 0.85,
+        "R@5": 0.94,
+        "MRR": 0.79
+      },
+      "dense": {
+        "R@1": 0.47,
+        "R@3": 0.78,
+        "R@5": 0.88,
+        "MRR": 0.70
+      },
+      "rrf": {
+        "R@1": 0.52,
+        "R@3": 0.85,
+        "R@5": 0.95,
+        "MRR": 0.76
+      },
+      "full": {
+        "R@1": 0.47,
+        "R@3": 0.74,
+        "R@5": 0.79,
+        "MRR": 0.67
+      }
+    },
+    "L3_numeric_em": 0.92,
+    "L4_rouge_l": 0.152,
+    "L4_bleu": 0.035,
+    "L5_ragas": {
+      "faithfulness": 0.86,
+      "relevancy": 0.89,
+      "context_precision": 0.82,
+      "evaluated": 50,
+      "errors": 0
+    }
+  }
+}

@@ -1,0 +1,4848 @@
+{
+  "version": "v6_fixed",
+  "total": 360,
+  "cases": [
+    {
+      "id": "lookup_0000",
+      "intent": "LOOKUP",
+      "query": "100g cam cung cấp bao nhiêu kcal?",
+      "gold_answer": "38.0 kcal",
+      "gold_value": 38.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0210"
+      ],
+      "tags": [
+        "router",
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0001",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g lê là bao nhiêu?",
+      "gold_answer": "45.0 kcal",
+      "gold_value": 45.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0231"
+      ],
+      "tags": [
+        "router",
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0002",
+      "intent": "LOOKUP",
+      "query": "papaya jam 100g có bao nhiêu calo?",
+      "gold_answer": "178.0 kcal",
+      "gold_value": 178.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0450"
+      ],
+      "tags": [
+        "router",
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0003",
+      "intent": "LOOKUP",
+      "query": "100g pork, mince lean meat steamed cung cấp bao nhiêu kcal?",
+      "gold_answer": "136.0 kcal",
+      "gold_value": 136.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0347"
+      ],
+      "tags": [
+        "router",
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0004",
+      "intent": "LOOKUP",
+      "query": "100g ngô khô cung cấp bao nhiêu kcal?",
+      "gold_answer": "354.0 kcal",
+      "gold_value": 354.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0008"
+      ],
+      "tags": [
+        "router",
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0005",
+      "intent": "LOOKUP",
+      "query": "100g bánh gạo cung cấp bao nhiêu kcal?",
+      "gold_answer": "376.0 kcal",
+      "gold_value": 376.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0467"
+      ],
+      "tags": [
+        "router",
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0006",
+      "intent": "LOOKUP",
+      "query": "100g gừng cung cấp bao nhiêu kcal?",
+      "gold_answer": "29.0 kcal",
+      "gold_value": 29.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0490"
+      ],
+      "tags": [
+        "router",
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0007",
+      "intent": "LOOKUP",
+      "query": "100g pineapple sweets candy cung cấp bao nhiêu kcal?",
+      "gold_answer": "415.0 kcal",
+      "gold_value": 415.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0479"
+      ],
+      "tags": [
+        "router",
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0008",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g snail medium - size, edible là bao nhiêu?",
+      "gold_answer": "84.0 kcal",
+      "gold_value": 84.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0401"
+      ],
+      "tags": [
+        "router",
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0009",
+      "intent": "LOOKUP",
+      "query": "100g grape, european, sweet cung cấp bao nhiêu kcal?",
+      "gold_answer": "68.0 kcal",
+      "gold_value": 68.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0245"
+      ],
+      "tags": [
+        "router",
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0010",
+      "intent": "LOOKUP",
+      "query": "100g alpinia root, fresh cung cấp bao nhiêu kcal?",
+      "gold_answer": "26.0 kcal",
+      "gold_value": 26.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0496"
+      ],
+      "tags": [
+        "router",
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0011",
+      "intent": "LOOKUP",
+      "query": "cải thảo 100g có bao nhiêu calo?",
+      "gold_answer": "17.0 kcal",
+      "gold_value": 17.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0097"
+      ],
+      "tags": [
+        "router",
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0012",
+      "intent": "LOOKUP",
+      "query": "100g cà chua cung cấp bao nhiêu kcal?",
+      "gold_answer": "20.0 kcal",
+      "gold_value": 20.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0087"
+      ],
+      "tags": [
+        "router",
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0013",
+      "intent": "LOOKUP",
+      "query": "100g xoài chín cung cấp bao nhiêu kcal?",
+      "gold_answer": "62.0 kcal",
+      "gold_value": 62.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0263"
+      ],
+      "tags": [
+        "router",
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0014",
+      "intent": "LOOKUP",
+      "query": "100g bermuda flour cung cấp bao nhiêu kcal?",
+      "gold_answer": "341.0 kcal",
+      "gold_value": 341.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0039"
+      ],
+      "tags": [
+        "router",
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0015",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g mix pickled from young jack fruit là bao nhiêu?",
+      "gold_answer": "16.0 kcal",
+      "gold_value": 16.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0200"
+      ],
+      "tags": [
+        "router",
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0016",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g soybean sauce with rice and maize là bao nhiêu?",
+      "gold_answer": "75.0 kcal",
+      "gold_value": 75.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0506"
+      ],
+      "tags": [
+        "router",
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0017",
+      "intent": "LOOKUP",
+      "query": "thịt lợn nạc 100g có bao nhiêu calo?",
+      "gold_answer": "139.0 kcal",
+      "gold_value": 139.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0295"
+      ],
+      "tags": [
+        "router",
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0018",
+      "intent": "LOOKUP",
+      "query": "100g thịt ngựa cung cấp bao nhiêu kcal?",
+      "gold_answer": "176.0 kcal",
+      "gold_value": 176.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0298"
+      ],
+      "tags": [
+        "router",
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0019",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g chuối xanh là bao nhiêu?",
+      "gold_answer": "74.0 kcal",
+      "gold_value": 74.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0101"
+      ],
+      "tags": [
+        "router",
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0020",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g xoài xanh là bao nhiêu?",
+      "gold_answer": "67.0 kcal",
+      "gold_value": 67.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0241"
+      ],
+      "tags": [
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0021",
+      "intent": "LOOKUP",
+      "query": "100g rau đay cung cấp bao nhiêu kcal?",
+      "gold_answer": "25.0 kcal",
+      "gold_value": 25.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0152"
+      ],
+      "tags": [
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0022",
+      "intent": "LOOKUP",
+      "query": "100g xúc xích lợn cung cấp bao nhiêu kcal?",
+      "gold_answer": "535.0 kcal",
+      "gold_value": 535.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0355"
+      ],
+      "tags": [
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0023",
+      "intent": "LOOKUP",
+      "query": "100g hành tây cung cấp bao nhiêu kcal?",
+      "gold_answer": "41.0 kcal",
+      "gold_value": 41.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0121"
+      ],
+      "tags": [
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0024",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g silver berry là bao nhiêu?",
+      "gold_answer": "13.0 kcal",
+      "gold_value": 13.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0247"
+      ],
+      "tags": [
+        "numeric_em",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "lookup_0025",
+      "intent": "LOOKUP",
+      "query": "cow-peas, yard long, chinese long bean 100g có bao nhiêu calo?",
+      "gold_answer": "59.0 kcal",
+      "gold_value": 59.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0112"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0026",
+      "intent": "LOOKUP",
+      "query": "100g chestnut, chinese whole, raw cung cấp bao nhiêu kcal?",
+      "gold_answer": "638.0 kcal",
+      "gold_value": 638.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0060"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0027",
+      "intent": "LOOKUP",
+      "query": "ball shaped dumpling, vietnamese steamed buns 100g có bao nhiêu calo?",
+      "gold_answer": "219.0 kcal",
+      "gold_value": 219.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0009"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0028",
+      "intent": "LOOKUP",
+      "query": "sesame oriental seeds, whole, dried black or white 100g có bao nhiêu calo?",
+      "gold_answer": "568.0 kcal",
+      "gold_value": 568.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0069"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0029",
+      "intent": "LOOKUP",
+      "query": "cuttle fish, raw (squid) 100g có bao nhiêu calo?",
+      "gold_answer": "73.0 kcal",
+      "gold_value": 73.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0400"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0030",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g starapple, cainito là bao nhiêu?",
+      "gold_answer": "42.0 kcal",
+      "gold_value": 42.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0262"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0031",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g tangerine; orange; mandarin là bao nhiêu?",
+      "gold_answer": "39.0 kcal",
+      "gold_value": 39.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0255"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0032",
+      "intent": "LOOKUP",
+      "query": "100g trứng gà bột cung cấp bao nhiêu kcal?",
+      "gold_answer": "563.0 kcal",
+      "gold_value": 563.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0430"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0033",
+      "intent": "LOOKUP",
+      "query": "100g tamarind fruit, pulp raw cung cấp bao nhiêu kcal?",
+      "gold_answer": "27.0 kcal",
+      "gold_value": 27.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0147"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0034",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g potato flour, white là bao nhiêu?",
+      "gold_answer": "345.0 kcal",
+      "gold_value": 345.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0042"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0035",
+      "intent": "LOOKUP",
+      "query": "húng 100g có bao nhiêu calo?",
+      "gold_answer": "18.0 kcal",
+      "gold_value": 18.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0176"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0036",
+      "intent": "LOOKUP",
+      "query": "100g vermicelli from bermuda tuber cung cấp bao nhiêu kcal?",
+      "gold_answer": "332.0 kcal",
+      "gold_value": 332.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0038"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0037",
+      "intent": "LOOKUP",
+      "query": "cow pea whole seeds, dried 100g có bao nhiêu calo?",
+      "gold_answer": "320.0 kcal",
+      "gold_value": 320.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0054"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0038",
+      "intent": "LOOKUP",
+      "query": "rau má 100g có bao nhiêu calo?",
+      "gold_answer": "20.0 kcal",
+      "gold_value": 20.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0161"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0039",
+      "intent": "LOOKUP",
+      "query": "100g lettuce, garden asparagus cung cấp bao nhiêu kcal?",
+      "gold_answer": "17.0 kcal",
+      "gold_value": 17.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0172"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0040",
+      "intent": "LOOKUP",
+      "query": "fish roe 100g có bao nhiêu calo?",
+      "gold_answer": "171.0 kcal",
+      "gold_value": 171.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0427"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0041",
+      "intent": "LOOKUP",
+      "query": "banana, canned, sweetened 100g có bao nhiêu calo?",
+      "gold_answer": "58.0 kcal",
+      "gold_value": 58.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0440"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0042",
+      "intent": "LOOKUP",
+      "query": "trứng cút 100g có bao nhiêu calo?",
+      "gold_answer": "154.0 kcal",
+      "gold_value": 154.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0426"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0043",
+      "intent": "LOOKUP",
+      "query": "100g head beef (without tongue, brain, ears). cung cấp bao nhiêu kcal?",
+      "gold_answer": "185.0 kcal",
+      "gold_value": 185.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0313"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0044",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g bamboo shoot, unspecified là bao nhiêu?",
+      "gold_answer": "11.0 kcal",
+      "gold_value": 11.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0132"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0045",
+      "intent": "LOOKUP",
+      "query": "100g  cung cấp bao nhiêu kcal?",
+      "gold_answer": "116.0 kcal",
+      "gold_value": 116.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0377"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0046",
+      "intent": "LOOKUP",
+      "query": "horse radish; dish - tree, drumstick leave 100g có bao nhiêu calo?",
+      "gold_answer": "14.0 kcal",
+      "gold_value": 14.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0107"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0047",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g sweet potato, dried là bao nhiêu?",
+      "gold_answer": "333.0 kcal",
+      "gold_value": 333.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0045"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0048",
+      "intent": "LOOKUP",
+      "query": "rau ngót khô 100g có bao nhiêu calo?",
+      "gold_answer": "239.0 kcal",
+      "gold_value": 239.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0169"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0049",
+      "intent": "LOOKUP",
+      "query": "100g trứng vịt cung cấp bao nhiêu kcal?",
+      "gold_answer": "184.0 kcal",
+      "gold_value": 184.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0423"
+      ],
+      "tags": [
+        "numeric_em"
+      ]
+    },
+    {
+      "id": "lookup_0050",
+      "intent": "LOOKUP",
+      "query": "100g small biscuit cung cấp bao nhiêu kcal?",
+      "gold_answer": "369.0 kcal",
+      "gold_value": 369.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0471"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0051",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g chôm chôm là bao nhiêu?",
+      "gold_answer": "72.0 kcal",
+      "gold_value": 72.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0212"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0052",
+      "intent": "LOOKUP",
+      "query": "tằm 100g có bao nhiêu calo?",
+      "gold_answer": "111.0 kcal",
+      "gold_value": 111.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0359"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0053",
+      "intent": "LOOKUP",
+      "query": "dâu đen 100g có bao nhiêu calo?",
+      "gold_answer": "27.0 kcal",
+      "gold_value": 27.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0216"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0054",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g banana jam là bao nhiêu?",
+      "gold_answer": "218.0 kcal",
+      "gold_value": 218.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0448"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0055",
+      "intent": "LOOKUP",
+      "query": "100g hog, intestine large raw cung cấp bao nhiêu kcal?",
+      "gold_answer": "167.0 kcal",
+      "gold_value": 167.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0324"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0056",
+      "intent": "LOOKUP",
+      "query": "cá cơm 100g có bao nhiêu calo?",
+      "gold_answer": "111.0 kcal",
+      "gold_value": 111.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0380"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0057",
+      "intent": "LOOKUP",
+      "query": "mì tôm 100g có bao nhiêu calo?",
+      "gold_answer": "349.0 kcal",
+      "gold_value": 349.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0022"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0058",
+      "intent": "LOOKUP",
+      "query": "100g tim gà cung cấp bao nhiêu kcal?",
+      "gold_answer": "114.0 kcal",
+      "gold_value": 114.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0334"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0059",
+      "intent": "LOOKUP",
+      "query": "100g manchurian water-rice, manchurian wild rice cung cấp bao nhiêu kcal?",
+      "gold_answer": "30.0 kcal",
+      "gold_value": 30.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0106"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0060",
+      "intent": "LOOKUP",
+      "query": "cà rốt 100g có bao nhiêu calo?",
+      "gold_answer": "39.0 kcal",
+      "gold_value": 39.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0089"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0061",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g corn, small variety immature, baby corn là bao nhiêu?",
+      "gold_answer": "40.0 kcal",
+      "gold_value": 40.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0140"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0062",
+      "intent": "LOOKUP",
+      "query": "100g dried cabbage, white cung cấp bao nhiêu kcal?",
+      "gold_answer": "245.0 kcal",
+      "gold_value": 245.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0094"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0063",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g coffee sweets là bao nhiêu?",
+      "gold_answer": "378.0 kcal",
+      "gold_value": 378.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0476"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0064",
+      "intent": "LOOKUP",
+      "query": "toad meat powder 100g có bao nhiêu calo?",
+      "gold_answer": "342.0 kcal",
+      "gold_value": 342.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0356"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0065",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g jujube, common or chinese; chinese date là bao nhiêu?",
+      "gold_answer": "38.0 kcal",
+      "gold_value": 38.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0258"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0066",
+      "intent": "LOOKUP",
+      "query": "100g egg plant big, brinja aubergine cung cấp bao nhiêu kcal?",
+      "gold_answer": "23.0 kcal",
+      "gold_value": 23.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0086"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0067",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g buffalo meat, neck là bao nhiêu?",
+      "gold_answer": "112.0 kcal",
+      "gold_value": 112.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0303"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0068",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g hog intestine small raw without fat là bao nhiêu?",
+      "gold_answer": "44.0 kcal",
+      "gold_value": 44.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0325"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0069",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g dried cuttle fish, squid là bao nhiêu?",
+      "gold_answer": "291.0 kcal",
+      "gold_value": 291.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0399"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0070",
+      "intent": "LOOKUP",
+      "query": "100g thịt bò hộp cung cấp bao nhiêu kcal?",
+      "gold_answer": "251.0 kcal",
+      "gold_value": 251.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0456"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0071",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g thanh long là bao nhiêu?",
+      "gold_answer": "40.0 kcal",
+      "gold_value": 40.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0252"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0072",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g potato, white, dried là bao nhiêu?",
+      "gold_answer": "330.0 kcal",
+      "gold_value": 330.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0046"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0073",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g dill là bao nhiêu?",
+      "gold_answer": "28.0 kcal",
+      "gold_value": 28.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0183"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0074",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g buffalo meat, lean (loin) là bao nhiêu?",
+      "gold_answer": "121.0 kcal",
+      "gold_value": 121.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0305"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0075",
+      "intent": "LOOKUP",
+      "query": "100g baker's yeast, fresh cung cấp bao nhiêu kcal?",
+      "gold_answer": "95.0 kcal",
+      "gold_value": 95.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0202"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0076",
+      "intent": "LOOKUP",
+      "query": "100g rau dền trắng cung cấp bao nhiêu kcal?",
+      "gold_answer": "42.0 kcal",
+      "gold_value": 42.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0156"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0077",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g vodka là bao nhiêu?",
+      "gold_answer": "273.0 kcal",
+      "gold_value": 273.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0522"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0078",
+      "intent": "LOOKUP",
+      "query": "100g onion shallot, scallion, pickled cung cấp bao nhiêu kcal?",
+      "gold_answer": "24.0 kcal",
+      "gold_value": 24.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0199"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0079",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g peanut candy là bao nhiêu?",
+      "gold_answer": "449.0 kcal",
+      "gold_value": 449.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0480"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0080",
+      "intent": "LOOKUP",
+      "query": "bắp cải đỏ 100g có bao nhiêu calo?",
+      "gold_answer": "45.0 kcal",
+      "gold_value": 45.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0093"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0081",
+      "intent": "LOOKUP",
+      "query": "curd tofu concentrated 100g có bao nhiêu calo?",
+      "gold_answer": "414.0 kcal",
+      "gold_value": 414.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0075"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0082",
+      "intent": "LOOKUP",
+      "query": "súp lơ trắng 100g có bao nhiêu calo?",
+      "gold_answer": "30.0 kcal",
+      "gold_value": 30.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0181"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0083",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g gạo lứt là bao nhiêu?",
+      "gold_answer": "345.0 kcal",
+      "gold_value": 345.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0005"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0084",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g soybeans flour, defatted là bao nhiêu?",
+      "gold_answer": "321.0 kcal",
+      "gold_value": 321.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0070"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0085",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g thịt bê nạc mỡ là bao nhiêu?",
+      "gold_answer": "144.0 kcal",
+      "gold_value": 144.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0279"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0086",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g óc bò là bao nhiêu?",
+      "gold_answer": "124.0 kcal",
+      "gold_value": 124.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0327"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0087",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g whole wheat rusk là bao nhiêu?",
+      "gold_answer": "346.0 kcal",
+      "gold_value": 346.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0461"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0088",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g pork, head meat, steamed là bao nhiêu?",
+      "gold_answer": "553.0 kcal",
+      "gold_value": 553.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0348"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0089",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g ổi là bao nhiêu?",
+      "gold_answer": "38.0 kcal",
+      "gold_value": 38.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0248"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0090",
+      "intent": "LOOKUP",
+      "query": "100g thịt trâu khô cung cấp bao nhiêu kcal?",
+      "gold_answer": "226.0 kcal",
+      "gold_value": 226.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0354"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0091",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g aubergine là bao nhiêu?",
+      "gold_answer": "22.0 kcal",
+      "gold_value": 22.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0091"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0092",
+      "intent": "LOOKUP",
+      "query": "100g nấm thường cung cấp bao nhiêu kcal?",
+      "gold_answer": "34.0 kcal",
+      "gold_value": 34.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0208"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0093",
+      "intent": "LOOKUP",
+      "query": "100g  cung cấp bao nhiêu kcal?",
+      "gold_answer": "151.0 kcal",
+      "gold_value": 151.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0376"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0094",
+      "intent": "LOOKUP",
+      "query": "nghêu 100g có bao nhiêu calo?",
+      "gold_answer": "45.0 kcal",
+      "gold_value": 45.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0397"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0095",
+      "intent": "LOOKUP",
+      "query": "gừng bột 100g có bao nhiêu calo?",
+      "gold_answer": "323.0 kcal",
+      "gold_value": 323.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0489"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0096",
+      "intent": "LOOKUP",
+      "query": "100g ohia; malaya roseapple cung cấp bao nhiêu kcal?",
+      "gold_answer": "16.0 kcal",
+      "gold_value": 16.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0226"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0097",
+      "intent": "LOOKUP",
+      "query": "chocolate, filled 100g có bao nhiêu calo?",
+      "gold_answer": "449.0 kcal",
+      "gold_value": 449.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0469"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0098",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g duck, stewed meat là bao nhiêu?",
+      "gold_answer": "224.0 kcal",
+      "gold_value": 224.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0460"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0099",
+      "intent": "LOOKUP",
+      "query": "100g dưa hấu cung cấp bao nhiêu kcal?",
+      "gold_answer": "16.0 kcal",
+      "gold_value": 16.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0219"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0100",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g flounder, sole, turbot là bao nhiêu?",
+      "gold_answer": "73.0 kcal",
+      "gold_value": 73.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0385"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0101",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g pork and beef, minced canned là bao nhiêu?",
+      "gold_answer": "244.0 kcal",
+      "gold_value": 244.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0459"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0102",
+      "intent": "LOOKUP",
+      "query": "100g tủy lợn cung cấp bao nhiêu kcal?",
+      "gold_answer": "749.0 kcal",
+      "gold_value": 749.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0340"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0103",
+      "intent": "LOOKUP",
+      "query": "ớt vàng 100g có bao nhiêu calo?",
+      "gold_answer": "29.0 kcal",
+      "gold_value": 29.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0144"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0104",
+      "intent": "LOOKUP",
+      "query": "rau thơm 100g có bao nhiêu calo?",
+      "gold_answer": "16.0 kcal",
+      "gold_value": 16.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0163"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0105",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g bánh mì là bao nhiêu?",
+      "gold_answer": "249.0 kcal",
+      "gold_value": 249.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0012"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0106",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g fresh maize seeds, raw là bao nhiêu?",
+      "gold_answer": "196.0 kcal",
+      "gold_value": 196.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0007"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0107",
+      "intent": "LOOKUP",
+      "query": "thịt lợn nạc mỡ 100g có bao nhiêu calo?",
+      "gold_answer": "394.0 kcal",
+      "gold_value": 394.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0294"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0108",
+      "intent": "LOOKUP",
+      "query": "bí đỏ lá 100g có bao nhiêu calo?",
+      "gold_answer": "18.0 kcal",
+      "gold_value": 18.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0148"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0109",
+      "intent": "LOOKUP",
+      "query": "100g đầu lợn cung cấp bao nhiêu kcal?",
+      "gold_answer": "335.0 kcal",
+      "gold_value": 335.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0314"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0110",
+      "intent": "LOOKUP",
+      "query": "100g jack fruit, honey cung cấp bao nhiêu kcal?",
+      "gold_answer": "62.0 kcal",
+      "gold_value": 62.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0238"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0111",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g catfish, silurus, sheatfish, hito là bao nhiêu?",
+      "gold_answer": "173.0 kcal",
+      "gold_value": 173.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0390"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0112",
+      "intent": "LOOKUP",
+      "query": "100g  cung cấp bao nhiêu kcal?",
+      "gold_answer": "71.0 kcal",
+      "gold_value": 71.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0373"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0113",
+      "intent": "LOOKUP",
+      "query": "trứng vịt lộn 100g có bao nhiêu calo?",
+      "gold_answer": "182.0 kcal",
+      "gold_value": 182.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0429"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0114",
+      "intent": "LOOKUP",
+      "query": "neptunia, dismanthus 100g có bao nhiêu calo?",
+      "gold_answer": "28.0 kcal",
+      "gold_value": 28.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0171"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0115",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g gan gà là bao nhiêu?",
+      "gold_answer": "111.0 kcal",
+      "gold_value": 111.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0318"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0116",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g blood mix-pudding with viscera in large intestine là bao nhiêu?",
+      "gold_answer": "114.0 kcal",
+      "gold_value": 114.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0345"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0117",
+      "intent": "LOOKUP",
+      "query": "100g tôm moi cung cấp bao nhiêu kcal?",
+      "gold_answer": "58.0 kcal",
+      "gold_value": 58.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0409"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0118",
+      "intent": "LOOKUP",
+      "query": "100g dried bamboo shoots cung cấp bao nhiêu kcal?",
+      "gold_answer": "157.0 kcal",
+      "gold_value": 157.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0133"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0119",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g thịt bò loại i là bao nhiêu?",
+      "gold_answer": "118.0 kcal",
+      "gold_value": 118.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0281"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0120",
+      "intent": "LOOKUP",
+      "query": "100g sweet meat pie in lumps cung cấp bao nhiêu kcal?",
+      "gold_answer": "395.0 kcal",
+      "gold_value": 395.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0463"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0121",
+      "intent": "LOOKUP",
+      "query": "100g mineral water cung cấp bao nhiêu kcal?",
+      "gold_answer": "0.0 kcal",
+      "gold_value": 0.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0518"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0122",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g goatfish, surmullet, red mullet là bao nhiêu?",
+      "gold_answer": "104.0 kcal",
+      "gold_value": 104.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0381"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0123",
+      "intent": "LOOKUP",
+      "query": "100g nước cam tươi cung cấp bao nhiêu kcal?",
+      "gold_answer": "23.0 kcal",
+      "gold_value": 23.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0515"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0124",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g wheat fritters twisted fried là bao nhiêu?",
+      "gold_answer": "292.0 kcal",
+      "gold_value": 292.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0014"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0125",
+      "intent": "LOOKUP",
+      "query": "na 100g có bao nhiêu calo?",
+      "gold_answer": "66.0 kcal",
+      "gold_value": 66.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0242"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0126",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g nấm hương khô là bao nhiêu?",
+      "gold_answer": "274.0 kcal",
+      "gold_value": 274.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0204"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0127",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g sponge gourd, rag, young flower là bao nhiêu?",
+      "gold_answer": "30.0 kcal",
+      "gold_value": 30.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0142"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0128",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g gan vịt là bao nhiêu?",
+      "gold_answer": "122.0 kcal",
+      "gold_value": 122.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0320"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0129",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g sắn đắng là bao nhiêu?",
+      "gold_answer": "152.0 kcal",
+      "gold_value": 152.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0027"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0130",
+      "intent": "LOOKUP",
+      "query": "amaranth, spineless 100g có bao nhiêu calo?",
+      "gold_answer": "21.0 kcal",
+      "gold_value": 21.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0154"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0131",
+      "intent": "LOOKUP",
+      "query": "swamp cabbage, water spinach, water convol 100g có bao nhiêu calo?",
+      "gold_answer": "25.0 kcal",
+      "gold_value": 25.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0165"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0132",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g water melon seeds whole, fried là bao nhiêu?",
+      "gold_answer": "551.0 kcal",
+      "gold_value": 551.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0078"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0133",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g thịt dê là bao nhiêu?",
+      "gold_answer": "122.0 kcal",
+      "gold_value": 122.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0289"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0134",
+      "intent": "LOOKUP",
+      "query": "100g tỏi cung cấp bao nhiêu kcal?",
+      "gold_answer": "121.0 kcal",
+      "gold_value": 121.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0185"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0135",
+      "intent": "LOOKUP",
+      "query": "100g bột lạc cung cấp bao nhiêu kcal?",
+      "gold_answer": "575.0 kcal",
+      "gold_value": 575.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0073"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0136",
+      "intent": "LOOKUP",
+      "query": "chrysanthemum. crown-daisy 100g có bao nhiêu calo?",
+      "gold_answer": "14.0 kcal",
+      "gold_value": 14.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0095"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0137",
+      "intent": "LOOKUP",
+      "query": "100g black seed cung cấp bao nhiêu kcal?",
+      "gold_answer": "472.0 kcal",
+      "gold_value": 472.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0063"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0138",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g su hào là bao nhiêu?",
+      "gold_answer": "37.0 kcal",
+      "gold_value": 37.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0178"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0139",
+      "intent": "LOOKUP",
+      "query": "100g mandarins juice (fresh) cung cấp bao nhiêu kcal?",
+      "gold_answer": "24.0 kcal",
+      "gold_value": 24.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0519"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0140",
+      "intent": "LOOKUP",
+      "query": "100g rau dền đỏ cung cấp bao nhiêu kcal?",
+      "gold_answer": "41.0 kcal",
+      "gold_value": 41.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0155"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0141",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g basil sweet leaves, raw là bao nhiêu?",
+      "gold_answer": "20.0 kcal",
+      "gold_value": 20.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0157"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0142",
+      "intent": "LOOKUP",
+      "query": "wild plant 100g có bao nhiêu calo?",
+      "gold_answer": "27.0 kcal",
+      "gold_value": 27.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0130"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0143",
+      "intent": "LOOKUP",
+      "query": "fish flour with bones 100g có bao nhiêu calo?",
+      "gold_answer": "323.0 kcal",
+      "gold_value": 323.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0417"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0144",
+      "intent": "LOOKUP",
+      "query": "100g cá ngừ cung cấp bao nhiêu kcal?",
+      "gold_answer": "87.0 kcal",
+      "gold_value": 87.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0379"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0145",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g  là bao nhiêu?",
+      "gold_answer": "369.0 kcal",
+      "gold_value": 369.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0352"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0146",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g hog blood, raw là bao nhiêu?",
+      "gold_answer": "25.0 kcal",
+      "gold_value": 25.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0338"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0147",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g parsley, curley là bao nhiêu?",
+      "gold_answer": "25.0 kcal",
+      "gold_value": 25.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0164"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0148",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g nước mắm hạng 1 là bao nhiêu?",
+      "gold_answer": "28.0 kcal",
+      "gold_value": 28.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0502"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0149",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g gạo chưa xay là bao nhiêu?",
+      "gold_answer": "344.0 kcal",
+      "gold_value": 344.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0003"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0150",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g bột ngô là bao nhiêu?",
+      "gold_answer": "361.0 kcal",
+      "gold_value": 361.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0019"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0151",
+      "intent": "LOOKUP",
+      "query": "sauropus, sp. leaves 100g có bao nhiêu calo?",
+      "gold_answer": "35.0 kcal",
+      "gold_value": 35.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0168"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0152",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g pigeon young bird flesh skin and giblets là bao nhiêu?",
+      "gold_answer": "340.0 kcal",
+      "gold_value": 340.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0285"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0153",
+      "intent": "LOOKUP",
+      "query": "100g pumpkin seeds, fried cung cấp bao nhiêu kcal?",
+      "gold_answer": "519.0 kcal",
+      "gold_value": 519.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0077"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0154",
+      "intent": "LOOKUP",
+      "query": "tylorhynchus sinensis 100g có bao nhiêu calo?",
+      "gold_answer": "89.0 kcal",
+      "gold_value": 89.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0407"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0155",
+      "intent": "LOOKUP",
+      "query": "100g hog blood, boiled cung cấp bao nhiêu kcal?",
+      "gold_answer": "44.0 kcal",
+      "gold_value": 44.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0337"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0156",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g yogurt, chocolate, nonfat milk là bao nhiêu?",
+      "gold_answer": "103.0 kcal",
+      "gold_value": 103.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0435"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0157",
+      "intent": "LOOKUP",
+      "query": "thịt ngỗng 100g có bao nhiêu calo?",
+      "gold_answer": "409.0 kcal",
+      "gold_value": 409.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0297"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0158",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g snail large, edible là bao nhiêu?",
+      "gold_answer": "84.0 kcal",
+      "gold_value": 84.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0403"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0159",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g mật ong là bao nhiêu?",
+      "gold_answer": "327.0 kcal",
+      "gold_value": 327.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0486"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0160",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g palm fruit fresh là bao nhiêu?",
+      "gold_answer": "178.0 kcal",
+      "gold_value": 178.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0067"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0161",
+      "intent": "LOOKUP",
+      "query": "100g nước mắm hạng 2 cung cấp bao nhiêu kcal?",
+      "gold_answer": "21.0 kcal",
+      "gold_value": 21.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0503"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0162",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g măng tây trắng là bao nhiêu?",
+      "gold_answer": "14.0 kcal",
+      "gold_value": 14.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0134"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0163",
+      "intent": "LOOKUP",
+      "query": "ớt xanh 100g có bao nhiêu calo?",
+      "gold_answer": "25.0 kcal",
+      "gold_value": 25.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0145"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0164",
+      "intent": "LOOKUP",
+      "query": "100g tương đậu cung cấp bao nhiêu kcal?",
+      "gold_answer": "53.0 kcal",
+      "gold_value": 53.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0509"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0165",
+      "intent": "LOOKUP",
+      "query": "100g longan, canned, sweetened cung cấp bao nhiêu kcal?",
+      "gold_answer": "62.0 kcal",
+      "gold_value": 62.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0451"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0166",
+      "intent": "LOOKUP",
+      "query": "vegetable oil, mix 100g có bao nhiêu calo?",
+      "gold_answer": "897.0 kcal",
+      "gold_value": 897.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0266"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0167",
+      "intent": "LOOKUP",
+      "query": "100g sweet marjoram cung cấp bao nhiêu kcal?",
+      "gold_answer": "22.0 kcal",
+      "gold_value": 22.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0159"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0168",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g turkey raw flesh and skin giblets là bao nhiêu?",
+      "gold_answer": "218.0 kcal",
+      "gold_value": 218.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0292"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0169",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g thận lợn là bao nhiêu?",
+      "gold_answer": "81.0 kcal",
+      "gold_value": 81.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0308"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0170",
+      "intent": "LOOKUP",
+      "query": "mung bean sprouts, pickled 100g có bao nhiêu calo?",
+      "gold_answer": "39.0 kcal",
+      "gold_value": 39.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0197"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0171",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g grape fruit, sour là bao nhiêu?",
+      "gold_answer": "14.0 kcal",
+      "gold_value": 14.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0246"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0172",
+      "intent": "LOOKUP",
+      "query": " 100g có bao nhiêu calo?",
+      "gold_answer": "19.0 kcal",
+      "gold_value": 19.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0146"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0173",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g shredded shrimp, salted and dried là bao nhiêu?",
+      "gold_answer": "305.0 kcal",
+      "gold_value": 305.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0419"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0174",
+      "intent": "LOOKUP",
+      "query": "củ cải khô 100g có bao nhiêu calo?",
+      "gold_answer": "220.0 kcal",
+      "gold_value": 220.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0104"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0175",
+      "intent": "LOOKUP",
+      "query": "persimmon kaki, soft type, ripe 100g có bao nhiêu calo?",
+      "gold_answer": "29.0 kcal",
+      "gold_value": 29.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0228"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0176",
+      "intent": "LOOKUP",
+      "query": "100g peanut sugar (jam) cung cấp bao nhiêu kcal?",
+      "gold_answer": "431.0 kcal",
+      "gold_value": 431.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0487"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0177",
+      "intent": "LOOKUP",
+      "query": "chayote, fruit raw 100g có bao nhiêu calo?",
+      "gold_answer": "19.0 kcal",
+      "gold_value": 19.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0180"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0178",
+      "intent": "LOOKUP",
+      "query": "pa tª 100g có bao nhiêu calo?",
+      "gold_answer": "326.0 kcal",
+      "gold_value": 326.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0341"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0179",
+      "intent": "LOOKUP",
+      "query": "100g bột mì cung cấp bao nhiêu kcal?",
+      "gold_answer": "346.0 kcal",
+      "gold_value": 346.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0018"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0180",
+      "intent": "LOOKUP",
+      "query": "100g malt cung cấp bao nhiêu kcal?",
+      "gold_answer": "331.0 kcal",
+      "gold_value": 331.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0485"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0181",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g rice, unriped. raw là bao nhiêu?",
+      "gold_answer": "297.0 kcal",
+      "gold_value": 297.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0021"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0182",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g cassava leaves là bao nhiêu?",
+      "gold_answer": "78.0 kcal",
+      "gold_value": 78.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0131"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0183",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g eggplant, garden, brinjan; aubergine, pickled là bao nhiêu?",
+      "gold_answer": "13.0 kcal",
+      "gold_value": 13.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0191"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0184",
+      "intent": "LOOKUP",
+      "query": "100g gan lợn cung cấp bao nhiêu kcal?",
+      "gold_answer": "116.0 kcal",
+      "gold_value": 116.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0319"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0185",
+      "intent": "LOOKUP",
+      "query": "da lợn 100g có bao nhiêu calo?",
+      "gold_answer": "118.0 kcal",
+      "gold_value": 118.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0309"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0186",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g cá chép là bao nhiêu?",
+      "gold_answer": "96.0 kcal",
+      "gold_value": 96.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0363"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0187",
+      "intent": "LOOKUP",
+      "query": "lưỡi lợn 100g có bao nhiêu calo?",
+      "gold_answer": "178.0 kcal",
+      "gold_value": 178.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0323"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0188",
+      "intent": "LOOKUP",
+      "query": "rong biển 100g có bao nhiêu calo?",
+      "gold_answer": "25.0 kcal",
+      "gold_value": 25.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0150"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0189",
+      "intent": "LOOKUP",
+      "query": "granulated sugar 100g có bao nhiêu calo?",
+      "gold_answer": "397.0 kcal",
+      "gold_value": 397.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0474"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0190",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g helix là bao nhiêu?",
+      "gold_answer": "72.0 kcal",
+      "gold_value": 72.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0404"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0191",
+      "intent": "LOOKUP",
+      "query": "100g nghệ cung cấp bao nhiêu kcal?",
+      "gold_answer": "25.0 kcal",
+      "gold_value": 25.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0494"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0192",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g thịt trâu là bao nhiêu?",
+      "gold_answer": "97.0 kcal",
+      "gold_value": 97.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0301"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0193",
+      "intent": "LOOKUP",
+      "query": "cocktail, vermouth sweet 100g có bao nhiêu calo?",
+      "gold_answer": "63.0 kcal",
+      "gold_value": 63.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0513"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0194",
+      "intent": "LOOKUP",
+      "query": "100g pyrus pashia ham cung cấp bao nhiêu kcal?",
+      "gold_answer": "24.0 kcal",
+      "gold_value": 24.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0234"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0195",
+      "intent": "LOOKUP",
+      "query": "100g edible herbaceous plant cung cấp bao nhiêu kcal?",
+      "gold_answer": "15.0 kcal",
+      "gold_value": 15.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0189"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0196",
+      "intent": "LOOKUP",
+      "query": "litchi, canned, sweetened 100g có bao nhiêu calo?",
+      "gold_answer": "60.0 kcal",
+      "gold_value": 60.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0453"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0197",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g corn flakes là bao nhiêu?",
+      "gold_answer": "372.0 kcal",
+      "gold_value": 372.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0015"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0198",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g beef dumpling là bao nhiêu?",
+      "gold_answer": "357.0 kcal",
+      "gold_value": 357.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0346"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0199",
+      "intent": "LOOKUP",
+      "query": "100g đậu phụ chiên cung cấp bao nhiêu kcal?",
+      "gold_answer": "114.0 kcal",
+      "gold_value": 114.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0076"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0200",
+      "intent": "LOOKUP",
+      "query": "100g mandarin, whole fruit cung cấp bao nhiêu kcal?",
+      "gold_answer": "26.0 kcal",
+      "gold_value": 26.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0254"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0201",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g bột khoai lang là bao nhiêu?",
+      "gold_answer": "334.0 kcal",
+      "gold_value": 334.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0040"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0202",
+      "intent": "LOOKUP",
+      "query": " 100g có bao nhiêu calo?",
+      "gold_answer": "156.0 kcal",
+      "gold_value": 156.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0387"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0203",
+      "intent": "LOOKUP",
+      "query": "sweets with chocolate 100g có bao nhiêu calo?",
+      "gold_answer": "388.0 kcal",
+      "gold_value": 388.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0482"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0204",
+      "intent": "LOOKUP",
+      "query": "100g dạ dày bò cung cấp bao nhiêu kcal?",
+      "gold_answer": "97.0 kcal",
+      "gold_value": 97.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0311"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0205",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g olive oil, salad or cooking là bao nhiêu?",
+      "gold_answer": "900.0 kcal",
+      "gold_value": 900.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0278"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0206",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g banana, dried là bao nhiêu?",
+      "gold_answer": "292.0 kcal",
+      "gold_value": 292.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0213"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0207",
+      "intent": "LOOKUP",
+      "query": "100g chinese olive cung cấp bao nhiêu kcal?",
+      "gold_answer": "37.0 kcal",
+      "gold_value": 37.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0188"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0208",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g su hào khô là bao nhiêu?",
+      "gold_answer": "261.0 kcal",
+      "gold_value": 261.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0179"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0209",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g bơ tươi là bao nhiêu?",
+      "gold_answer": "101.0 kcal",
+      "gold_value": 101.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0250"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0210",
+      "intent": "LOOKUP",
+      "query": "100g small biscuits, fish figured cung cấp bao nhiêu kcal?",
+      "gold_answer": "368.0 kcal",
+      "gold_value": 368.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0464"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0211",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g herring, canned là bao nhiêu?",
+      "gold_answer": "233.0 kcal",
+      "gold_value": 233.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0455"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0212",
+      "intent": "LOOKUP",
+      "query": "100g chuối chín cung cấp bao nhiêu kcal?",
+      "gold_answer": "56.0 kcal",
+      "gold_value": 56.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0214"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0213",
+      "intent": "LOOKUP",
+      "query": "brewer's yeast, fried 100g có bao nhiêu calo?",
+      "gold_answer": "340.0 kcal",
+      "gold_value": 340.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0201"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0214",
+      "intent": "LOOKUP",
+      "query": "châu chấu 100g có bao nhiêu calo?",
+      "gold_answer": "130.0 kcal",
+      "gold_value": 130.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0357"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0215",
+      "intent": "LOOKUP",
+      "query": "100g rau cần cung cấp bao nhiêu kcal?",
+      "gold_answer": "48.0 kcal",
+      "gold_value": 48.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0100"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0216",
+      "intent": "LOOKUP",
+      "query": "100g thịt lợn sườn cung cấp bao nhiêu kcal?",
+      "gold_answer": "187.0 kcal",
+      "gold_value": 187.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0331"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0217",
+      "intent": "LOOKUP",
+      "query": "cottonseed oil, salad or cooking 100g có bao nhiêu calo?",
+      "gold_answer": "900.0 kcal",
+      "gold_value": 900.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0270"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0218",
+      "intent": "LOOKUP",
+      "query": "100g wampee, chinese; wampi cung cấp bao nhiêu kcal?",
+      "gold_answer": "34.0 kcal",
+      "gold_value": 34.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0227"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0219",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g bột gạo nếp là bao nhiêu?",
+      "gold_answer": "362.0 kcal",
+      "gold_value": 362.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0016"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0220",
+      "intent": "LOOKUP",
+      "query": "100g buffalo meat, leg cung cấp bao nhiêu kcal?",
+      "gold_answer": "112.0 kcal",
+      "gold_value": 112.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0304"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0221",
+      "intent": "LOOKUP",
+      "query": "100g dứa dại cung cấp bao nhiêu kcal?",
+      "gold_answer": "29.0 kcal",
+      "gold_value": 29.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0222"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0222",
+      "intent": "LOOKUP",
+      "query": "pork, cinnamon mince grilled 100g có bao nhiêu calo?",
+      "gold_answer": "416.0 kcal",
+      "gold_value": 416.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0343"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0223",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g pork, mince fat meat grilled là bao nhiêu?",
+      "gold_answer": "517.0 kcal",
+      "gold_value": 517.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0342"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0224",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g đuôi bò là bao nhiêu?",
+      "gold_answer": "137.0 kcal",
+      "gold_value": 137.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0315"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0225",
+      "intent": "LOOKUP",
+      "query": "100g liqueur, orange flavor cung cấp bao nhiêu kcal?",
+      "gold_answer": "0.0 kcal",
+      "gold_value": 0.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0520"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0226",
+      "intent": "LOOKUP",
+      "query": "bột sắn 100g có bao nhiêu calo?",
+      "gold_answer": "333.0 kcal",
+      "gold_value": 333.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0043"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0227",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g chestnut, chinese whole, raw là bao nhiêu?",
+      "gold_answer": "223.0 kcal",
+      "gold_value": 223.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0061"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0228",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g musk melon, spanish melon, cantaloupe là bao nhiêu?",
+      "gold_answer": "18.0 kcal",
+      "gold_value": 18.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0218"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0229",
+      "intent": "LOOKUP",
+      "query": "100g bí bắp cải cung cấp bao nhiêu kcal?",
+      "gold_answer": "18.0 kcal",
+      "gold_value": 18.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0193"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0230",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g thịt gà hộp là bao nhiêu?",
+      "gold_answer": "273.0 kcal",
+      "gold_value": 273.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0457"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0231",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g cari powder (mix, turmeric, red pepper and other spices) là bao nhiêu?",
+      "gold_answer": "283.0 kcal",
+      "gold_value": 283.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0488"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0232",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g nước mắm cô là bao nhiêu?",
+      "gold_answer": "131.0 kcal",
+      "gold_value": 131.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0505"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0233",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g trứng gà lòng trắng là bao nhiêu?",
+      "gold_answer": "46.0 kcal",
+      "gold_value": 46.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0422"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0234",
+      "intent": "LOOKUP",
+      "query": "100g mắm tôm cung cấp bao nhiêu kcal?",
+      "gold_answer": "381.0 kcal",
+      "gold_value": 381.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0416"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "lookup_0235",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g bánh phở là bao nhiêu?",
+      "gold_answer": "143.0 kcal",
+      "gold_value": 143.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0013"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0236",
+      "intent": "LOOKUP",
+      "query": "white wine, sweet 100g có bao nhiêu calo?",
+      "gold_answer": "24.0 kcal",
+      "gold_value": 24.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0525"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0237",
+      "intent": "LOOKUP",
+      "query": "100g lotus, stem underground cung cấp bao nhiêu kcal?",
+      "gold_answer": "61.0 kcal",
+      "gold_value": 61.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0141"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0238",
+      "intent": "LOOKUP",
+      "query": "100g mackerel, codfish, kingfish cung cấp bao nhiêu kcal?",
+      "gold_answer": "166.0 kcal",
+      "gold_value": 166.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0386"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0239",
+      "intent": "LOOKUP",
+      "query": "lard, salted 100g có bao nhiêu calo?",
+      "gold_answer": "827.0 kcal",
+      "gold_value": 827.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0267"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0240",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g táo là bao nhiêu?",
+      "gold_answer": "48.0 kcal",
+      "gold_value": 48.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0259"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0241",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g winged bean goabean, indies, asparagus pea là bao nhiêu?",
+      "gold_answer": "34.0 kcal",
+      "gold_value": 34.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0114"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0242",
+      "intent": "LOOKUP",
+      "query": "100g bún cung cấp bao nhiêu kcal?",
+      "gold_answer": "110.0 kcal",
+      "gold_value": 110.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0020"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0243",
+      "intent": "LOOKUP",
+      "query": "trứng vịt lòng đỏ 100g có bao nhiêu calo?",
+      "gold_answer": "364.0 kcal",
+      "gold_value": 364.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0424"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0244",
+      "intent": "LOOKUP",
+      "query": "100g coca cola cung cấp bao nhiêu kcal?",
+      "gold_answer": "42.0 kcal",
+      "gold_value": 42.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0514"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0245",
+      "intent": "LOOKUP",
+      "query": "100g ca cao cung cấp bao nhiêu kcal?",
+      "gold_answer": "414.0 kcal",
+      "gold_value": 414.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0472"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0246",
+      "intent": "LOOKUP",
+      "query": "Hàm lượng calo trong 100g hành lá là bao nhiêu?",
+      "gold_answer": "26.0 kcal",
+      "gold_value": 26.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0119"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0247",
+      "intent": "LOOKUP",
+      "query": "100g tiny shrimp, sour sauce cung cấp bao nhiêu kcal?",
+      "gold_answer": "68.0 kcal",
+      "gold_value": 68.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0500"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0248",
+      "intent": "LOOKUP",
+      "query": "fish low fat 100g có bao nhiêu calo?",
+      "gold_answer": "80.0 kcal",
+      "gold_value": 80.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0378"
+      ],
+      "tags": []
+    },
+    {
+      "id": "lookup_0249",
+      "intent": "LOOKUP",
+      "query": "mullet, harder 100g có bao nhiêu calo?",
+      "gold_answer": "87.0 kcal",
+      "gold_value": 87.0,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0366"
+      ],
+      "tags": []
+    },
+    {
+      "id": "compare_0250",
+      "intent": "COMPARE",
+      "query": "Peanut oil, salad or cooking và sweet meat pie in lumps loại nào nhiều fat hơn?",
+      "gold_answer": "So sánh fat",
+      "gold_value": null,
+      "nutrient": "fat",
+      "relevant_ids": [
+        "food_0275",
+        "food_0463"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0251",
+      "intent": "COMPARE",
+      "query": "Thịt ngỗng và thịt cừu loại nào nhiều fat hơn?",
+      "gold_answer": "So sánh fat",
+      "gold_value": null,
+      "nutrient": "fat",
+      "relevant_ids": [
+        "food_0297",
+        "food_0288"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0252",
+      "intent": "COMPARE",
+      "query": "Bơ động vật và persimmon kaki, hard-type, ripe loại nào nhiều fat hơn?",
+      "gold_answer": "So sánh fat",
+      "gold_value": null,
+      "nutrient": "fat",
+      "relevant_ids": [
+        "food_0265",
+        "food_0229"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0253",
+      "intent": "COMPARE",
+      "query": "Kiwi và daylily, lemon flowers, pergularia, raw loại nào nhiều kcal hơn?",
+      "gold_answer": "So sánh kcal",
+      "gold_value": null,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0264",
+        "food_0126"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0254",
+      "intent": "COMPARE",
+      "query": "Rape bird, pickled và mullet, harder loại nào nhiều kcal hơn?",
+      "gold_answer": "So sánh kcal",
+      "gold_value": null,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0195",
+        "food_0366"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0255",
+      "intent": "COMPARE",
+      "query": "Nước mắm hạng 1 và carambola; star fruit loại nào nhiều protein hơn?",
+      "gold_answer": "So sánh protein",
+      "gold_value": null,
+      "nutrient": "protein",
+      "relevant_ids": [
+        "food_0502",
+        "food_0127"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0256",
+      "intent": "COMPARE",
+      "query": "Chili pepper, peppers red và mandarins juice (fresh) loại nào nhiều protein hơn?",
+      "gold_answer": "So sánh protein",
+      "gold_value": null,
+      "nutrient": "protein",
+      "relevant_ids": [
+        "food_0143",
+        "food_0519"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0257",
+      "intent": "COMPARE",
+      "query": "Sea shrimp, sea-water shrimp và cucumber (canned) loại nào nhiều kcal hơn?",
+      "gold_answer": "So sánh kcal",
+      "gold_value": null,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0411",
+        "food_0441"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0258",
+      "intent": "COMPARE",
+      "query": "Pachyrrhizus và nhãn loại nào nhiều protein hơn?",
+      "gold_answer": "So sánh protein",
+      "gold_value": null,
+      "nutrient": "protein",
+      "relevant_ids": [
+        "food_0105",
+        "food_0243"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0259",
+      "intent": "COMPARE",
+      "query": "Tôm tép và marble snail, edible loại nào nhiều fat hơn?",
+      "gold_answer": "So sánh fat",
+      "gold_value": null,
+      "nutrient": "fat",
+      "relevant_ids": [
+        "food_0412",
+        "food_0402"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0260",
+      "intent": "COMPARE",
+      "query": "Buffalo meat (shoulder) và pigeon young bird flesh skin and giblets loại nào nhiều kcal hơn?",
+      "gold_answer": "So sánh kcal",
+      "gold_value": null,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0302",
+        "food_0285"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0261",
+      "intent": "COMPARE",
+      "query": "Tôm khô và muối loại nào nhiều kcal hơn?",
+      "gold_answer": "So sánh kcal",
+      "gold_value": null,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0413",
+        "food_0492"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0262",
+      "intent": "COMPARE",
+      "query": "Hare rabbit (field or wild) và trứng vịt lòng trắng loại nào nhiều kcal hơn?",
+      "gold_answer": "So sánh kcal",
+      "gold_value": null,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0300",
+        "food_0425"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0263",
+      "intent": "COMPARE",
+      "query": "Cocktail, vermouth sweet và coca cola loại nào nhiều fat hơn?",
+      "gold_answer": "So sánh fat",
+      "gold_value": null,
+      "nutrient": "fat",
+      "relevant_ids": [
+        "food_0513",
+        "food_0514"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0264",
+      "intent": "COMPARE",
+      "query": "Carambola; star fruit và lard, salted loại nào nhiều kcal hơn?",
+      "gold_answer": "So sánh kcal",
+      "gold_value": null,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0127",
+        "food_0267"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0265",
+      "intent": "COMPARE",
+      "query": "Bamboo shoot, unspecified và trứng gà loại nào nhiều fat hơn?",
+      "gold_answer": "So sánh fat",
+      "gold_value": null,
+      "nutrient": "fat",
+      "relevant_ids": [
+        "food_0132",
+        "food_0420"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0266",
+      "intent": "COMPARE",
+      "query": "Dried bitter cassava và beer light (4,5 % alcohol) loại nào nhiều kcal hơn?",
+      "gold_answer": "So sánh kcal",
+      "gold_value": null,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0048",
+        "food_0511"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0267",
+      "intent": "COMPARE",
+      "query": "Hog blood, boiled và tim bò loại nào nhiều protein hơn?",
+      "gold_answer": "So sánh protein",
+      "gold_value": null,
+      "nutrient": "protein",
+      "relevant_ids": [
+        "food_0337",
+        "food_0333"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0268",
+      "intent": "COMPARE",
+      "query": "Sắn đắng và watercress loại nào nhiều fat hơn?",
+      "gold_answer": "So sánh fat",
+      "gold_value": null,
+      "nutrient": "fat",
+      "relevant_ids": [
+        "food_0027",
+        "food_0096"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0269",
+      "intent": "COMPARE",
+      "query": "Trứng gà lòng đỏ và tủy lợn loại nào nhiều kcal hơn?",
+      "gold_answer": "So sánh kcal",
+      "gold_value": null,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0421",
+        "food_0340"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0270",
+      "intent": "COMPARE",
+      "query": "Tủy lợn và xà lách loại nào nhiều protein hơn?",
+      "gold_answer": "So sánh protein",
+      "gold_value": null,
+      "nutrient": "protein",
+      "relevant_ids": [
+        "food_0340",
+        "food_0151"
+      ],
+      "tags": [
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0271",
+      "intent": "COMPARE",
+      "query": "Parsley, curley và thịt bò sấy loại nào nhiều fat hơn?",
+      "gold_answer": "So sánh fat",
+      "gold_value": null,
+      "nutrient": "fat",
+      "relevant_ids": [
+        "food_0164",
+        "food_0353"
+      ],
+      "tags": [
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0272",
+      "intent": "COMPARE",
+      "query": "Snail large, edible và rau dền trắng loại nào nhiều kcal hơn?",
+      "gold_answer": "So sánh kcal",
+      "gold_value": null,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0403",
+        "food_0156"
+      ],
+      "tags": [
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0273",
+      "intent": "COMPARE",
+      "query": "Lạc rang và tương đậu loại nào nhiều fat hơn?",
+      "gold_answer": "So sánh fat",
+      "gold_value": null,
+      "nutrient": "fat",
+      "relevant_ids": [
+        "food_0443",
+        "food_0497"
+      ],
+      "tags": [
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0274",
+      "intent": "COMPARE",
+      "query": "Gourd, sponge gourd, japanese và súp lơ trắng loại nào nhiều kcal hơn?",
+      "gold_answer": "So sánh kcal",
+      "gold_value": null,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0138",
+        "food_0181"
+      ],
+      "tags": [
+        "retrieval"
+      ]
+    },
+    {
+      "id": "compare_0275",
+      "intent": "COMPARE",
+      "query": "Sesame oil, salad or cooking và loach loại nào nhiều fat hơn?",
+      "gold_answer": "So sánh fat",
+      "gold_value": null,
+      "nutrient": "fat",
+      "relevant_ids": [
+        "food_0276",
+        "food_0388"
+      ],
+      "tags": []
+    },
+    {
+      "id": "compare_0276",
+      "intent": "COMPARE",
+      "query": "Mắm tôm chiên và vermicelli from bermuda tuber loại nào nhiều fat hơn?",
+      "gold_answer": "So sánh fat",
+      "gold_value": null,
+      "nutrient": "fat",
+      "relevant_ids": [
+        "food_0415",
+        "food_0038"
+      ],
+      "tags": []
+    },
+    {
+      "id": "compare_0277",
+      "intent": "COMPARE",
+      "query": "Thịt bò hộp và táo loại nào nhiều fat hơn?",
+      "gold_answer": "So sánh fat",
+      "gold_value": null,
+      "nutrient": "fat",
+      "relevant_ids": [
+        "food_0456",
+        "food_0259"
+      ],
+      "tags": []
+    },
+    {
+      "id": "compare_0278",
+      "intent": "COMPARE",
+      "query": "Gac fruit, whole và nước mắm cô loại nào nhiều fat hơn?",
+      "gold_answer": "So sánh fat",
+      "gold_value": null,
+      "nutrient": "fat",
+      "relevant_ids": [
+        "food_0116",
+        "food_0505"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "compare_0279",
+      "intent": "COMPARE",
+      "query": "Nấm thường và siamese custard apple, soursop loại nào nhiều protein hơn?",
+      "gold_answer": "So sánh protein",
+      "gold_value": null,
+      "nutrient": "protein",
+      "relevant_ids": [
+        "food_0208",
+        "food_0233"
+      ],
+      "tags": []
+    },
+    {
+      "id": "compare_0280",
+      "intent": "COMPARE",
+      "query": "Tủy lợn và sprout of soybeans loại nào nhiều protein hơn?",
+      "gold_answer": "So sánh protein",
+      "gold_value": null,
+      "nutrient": "protein",
+      "relevant_ids": [
+        "food_0340",
+        "food_0117"
+      ],
+      "tags": []
+    },
+    {
+      "id": "compare_0281",
+      "intent": "COMPARE",
+      "query": "Cá hồi và cuttle fish, raw (squid) loại nào nhiều protein hơn?",
+      "gold_answer": "So sánh protein",
+      "gold_value": null,
+      "nutrient": "protein",
+      "relevant_ids": [
+        "food_0371",
+        "food_0400"
+      ],
+      "tags": []
+    },
+    {
+      "id": "compare_0282",
+      "intent": "COMPARE",
+      "query": "Corn oil, salad or cooking và mì tôm loại nào nhiều kcal hơn?",
+      "gold_answer": "So sánh kcal",
+      "gold_value": null,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0277",
+        "food_0022"
+      ],
+      "tags": []
+    },
+    {
+      "id": "compare_0283",
+      "intent": "COMPARE",
+      "query": "Hành tây dưa và nấm hương loại nào nhiều kcal hơn?",
+      "gold_answer": "So sánh kcal",
+      "gold_value": null,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0198",
+        "food_0205"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "compare_0284",
+      "intent": "COMPARE",
+      "query": "Gạo chưa xay và đuôi lợn loại nào nhiều fat hơn?",
+      "gold_answer": "So sánh fat",
+      "gold_value": null,
+      "nutrient": "fat",
+      "relevant_ids": [
+        "food_0003",
+        "food_0316"
+      ],
+      "tags": []
+    },
+    {
+      "id": "compare_0285",
+      "intent": "COMPARE",
+      "query": "Mugwort, common sagebrush và gan lợn loại nào nhiều protein hơn?",
+      "gold_answer": "So sánh protein",
+      "gold_value": null,
+      "nutrient": "protein",
+      "relevant_ids": [
+        "food_0139",
+        "food_0319"
+      ],
+      "tags": []
+    },
+    {
+      "id": "compare_0286",
+      "intent": "COMPARE",
+      "query": "Bột mì và bắp cải đỏ loại nào nhiều fat hơn?",
+      "gold_answer": "So sánh fat",
+      "gold_value": null,
+      "nutrient": "fat",
+      "relevant_ids": [
+        "food_0018",
+        "food_0093"
+      ],
+      "tags": []
+    },
+    {
+      "id": "compare_0287",
+      "intent": "COMPARE",
+      "query": "Cá lóc và hành lá loại nào nhiều kcal hơn?",
+      "gold_answer": "So sánh kcal",
+      "gold_value": null,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0382",
+        "food_0119"
+      ],
+      "tags": []
+    },
+    {
+      "id": "compare_0288",
+      "intent": "COMPARE",
+      "query": "Hog blood, raw và lotus, stem underground loại nào nhiều kcal hơn?",
+      "gold_answer": "So sánh kcal",
+      "gold_value": null,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0338",
+        "food_0141"
+      ],
+      "tags": []
+    },
+    {
+      "id": "compare_0289",
+      "intent": "COMPARE",
+      "query": "Coconut meat, immature, raw và cải xanh dưa loại nào nhiều kcal hơn?",
+      "gold_answer": "So sánh kcal",
+      "gold_value": null,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0051",
+        "food_0194"
+      ],
+      "tags": []
+    },
+    {
+      "id": "compare_0290",
+      "intent": "COMPARE",
+      "query": "Grape, european, sweet và manodonta loại nào nhiều kcal hơn?",
+      "gold_answer": "So sánh kcal",
+      "gold_value": null,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0245",
+        "food_0414"
+      ],
+      "tags": []
+    },
+    {
+      "id": "compare_0291",
+      "intent": "COMPARE",
+      "query": "Nước mắm hạng 2 và baker's yeast, fresh loại nào nhiều kcal hơn?",
+      "gold_answer": "So sánh kcal",
+      "gold_value": null,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0503",
+        "food_0202"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "compare_0292",
+      "intent": "COMPARE",
+      "query": "Muối và cá hồi loại nào nhiều fat hơn?",
+      "gold_answer": "So sánh fat",
+      "gold_value": null,
+      "nutrient": "fat",
+      "relevant_ids": [
+        "food_0492",
+        "food_0371"
+      ],
+      "tags": []
+    },
+    {
+      "id": "compare_0293",
+      "intent": "COMPARE",
+      "query": "Tương nếp và yellow dried soybean seeds, dried loại nào nhiều kcal hơn?",
+      "gold_answer": "So sánh kcal",
+      "gold_value": null,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0507",
+        "food_0056"
+      ],
+      "tags": []
+    },
+    {
+      "id": "compare_0294",
+      "intent": "COMPARE",
+      "query": "Bí đỏ và sweets with chocolate loại nào nhiều kcal hơn?",
+      "gold_answer": "So sánh kcal",
+      "gold_value": null,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0085",
+        "food_0482"
+      ],
+      "tags": []
+    },
+    {
+      "id": "compare_0295",
+      "intent": "COMPARE",
+      "query": "Tofu in light syrup (tofu 160g, sirup 65ml) và đầu lợn loại nào nhiều protein hơn?",
+      "gold_answer": "So sánh protein",
+      "gold_value": null,
+      "nutrient": "protein",
+      "relevant_ids": [
+        "food_0082",
+        "food_0314"
+      ],
+      "tags": []
+    },
+    {
+      "id": "compare_0296",
+      "intent": "COMPARE",
+      "query": "Beer light (4,5 % alcohol) và hành tây dưa loại nào nhiều fat hơn?",
+      "gold_answer": "So sánh fat",
+      "gold_value": null,
+      "nutrient": "fat",
+      "relevant_ids": [
+        "food_0511",
+        "food_0198"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    },
+    {
+      "id": "compare_0297",
+      "intent": "COMPARE",
+      "query": "Wild plant và xúc xích lợn loại nào nhiều fat hơn?",
+      "gold_answer": "So sánh fat",
+      "gold_value": null,
+      "nutrient": "fat",
+      "relevant_ids": [
+        "food_0160",
+        "food_0355"
+      ],
+      "tags": []
+    },
+    {
+      "id": "compare_0298",
+      "intent": "COMPARE",
+      "query": "Dưa chuột và diếp cá loại nào nhiều protein hơn?",
+      "gold_answer": "So sánh protein",
+      "gold_value": null,
+      "nutrient": "protein",
+      "relevant_ids": [
+        "food_0109",
+        "food_0170"
+      ],
+      "tags": []
+    },
+    {
+      "id": "compare_0299",
+      "intent": "COMPARE",
+      "query": "Small biscuit và sawfish, wolfherring loại nào nhiều kcal hơn?",
+      "gold_answer": "So sánh kcal",
+      "gold_value": null,
+      "nutrient": "kcal",
+      "relevant_ids": [
+        "food_0471",
+        "food_0367"
+      ],
+      "tags": []
+    },
+    {
+      "id": "explain_0300",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Trẻ em và vai trò của nó là gì?",
+      "gold_answer": "Group: Trẻ em\nAge: < 6 tháng\nCalcium: 300 mg\nMagnesium: 36 mg\nPhosphorus: 90 mg\nSelenium: 6 mcg",
+      "gold_value": null,
+      "nutrient": "Trẻ em",
+      "relevant_ids": [
+        "min_0001"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0301",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Trẻ em và vai trò của nó là gì?",
+      "gold_answer": "Group: Trẻ em\nAge: 6-11 tháng\nCalcium: 400 mg\nMagnesium: 54 mg\nPhosphorus: 275 mg\nSelenium: 10 mcg",
+      "gold_value": null,
+      "nutrient": "Trẻ em",
+      "relevant_ids": [
+        "min_0002"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0302",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Trẻ nhỏ và vai trò của nó là gì?",
+      "gold_answer": "Group: Trẻ nhỏ\nAge: 1-3 tuổi\nCalcium: 500 mg\nMagnesium: 65 mg\nPhosphorus: 460 mg\nSelenium: 17 mcg",
+      "gold_value": null,
+      "nutrient": "Trẻ nhỏ",
+      "relevant_ids": [
+        "min_0003"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0303",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Trẻ nhỏ và vai trò của nó là gì?",
+      "gold_answer": "Group: Trẻ nhỏ\nAge: 4-6 tuổi\nCalcium: 600 mg\nMagnesium: 76 mg\nPhosphorus: 500 mg\nSelenium: 22 mcg",
+      "gold_value": null,
+      "nutrient": "Trẻ nhỏ",
+      "relevant_ids": [
+        "min_0004"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0304",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Trẻ nhỏ và vai trò của nó là gì?",
+      "gold_answer": "Group: Trẻ nhỏ\nAge: 7-9 tuổi\nCalcium: 700 mg\nMagnesium: 100 mg\nPhosphorus: 500 mg\nSelenium: 21 mcg",
+      "gold_value": null,
+      "nutrient": "Trẻ nhỏ",
+      "relevant_ids": [
+        "min_0005"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0305",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Nam vị thành niên và vai trò của nó là gì?",
+      "gold_answer": "Group: Nam vị thành niên\nAge: 10-12 tuổi\nCalcium: 1000 mg\nMagnesium: 155 mg\nPhosphorus: 1250 mg\nSelenium: 32 mcg",
+      "gold_value": null,
+      "nutrient": "Nam vị thành niên",
+      "relevant_ids": [
+        "min_0006"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0306",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Nam vị thành niên và vai trò của nó là gì?",
+      "gold_answer": "Group: Nam vị thành niên\nAge: 13-15 tuổi\nCalcium: 1000 mg\nMagnesium: 225 mg\nPhosphorus: 1250 mg\nSelenium: 32 mcg",
+      "gold_value": null,
+      "nutrient": "Nam vị thành niên",
+      "relevant_ids": [
+        "min_0007"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0307",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Nam vị thành niên và vai trò của nó là gì?",
+      "gold_answer": "Group: Nam vị thành niên\nAge: 16-18 tuổi\nCalcium: 1000 mg\nMagnesium: 260 mg\nPhosphorus: 1250 mg\nSelenium: 32 mcg",
+      "gold_value": null,
+      "nutrient": "Nam vị thành niên",
+      "relevant_ids": [
+        "min_0008"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0308",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Nam trưởng thành và vai trò của nó là gì?",
+      "gold_answer": "Group: Nam trưởng thành\nAge: 19-49 tuổi\nCalcium: 700 mg\nMagnesium: 205 mg\nPhosphorus: 700 mg\nSelenium: 34 mcg",
+      "gold_value": null,
+      "nutrient": "Nam trưởng thành",
+      "relevant_ids": [
+        "min_0009"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0309",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Nam trưởng thành và vai trò của nó là gì?",
+      "gold_answer": "Group: Nam trưởng thành\nAge: 50-60 tuổi\nCalcium: 1000 mg\nMagnesium: 205 mg\nPhosphorus: 700 mg\nSelenium: 34 mcg",
+      "gold_value": null,
+      "nutrient": "Nam trưởng thành",
+      "relevant_ids": [
+        "min_0010"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0310",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Nam trưởng thành và vai trò của nó là gì?",
+      "gold_answer": "Group: Nam trưởng thành\nAge: >60 tuổi\nCalcium: 1000 mg\nMagnesium: 205 mg\nPhosphorus: 700 mg\nSelenium: 33 mcg",
+      "gold_value": null,
+      "nutrient": "Nam trưởng thành",
+      "relevant_ids": [
+        "min_0011"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0311",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Nữ vị thành niên và vai trò của nó là gì?",
+      "gold_answer": "Group: Nữ vị thành niên\nAge: 10-12 tuổi (chưa có kinh nguyệt)\nCalcium: 1000 mg\nMagnesium: 160 mg\nPhosphorus: 1250 mg\nSelenium: 26 mcg",
+      "gold_value": null,
+      "nutrient": "Nữ vị thành niên",
+      "relevant_ids": [
+        "min_0012"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0312",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Nữ vị thành niên và vai trò của nó là gì?",
+      "gold_answer": "Group: Nữ vị thành niên\nAge: 10-12 tuổi\nCalcium: 1000 mg\nMagnesium: 160 mg\nPhosphorus: 1250 mg\nSelenium: 26 mcg",
+      "gold_value": null,
+      "nutrient": "Nữ vị thành niên",
+      "relevant_ids": [
+        "min_0013"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0313",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Nữ vị thành niên và vai trò của nó là gì?",
+      "gold_answer": "Group: Nữ vị thành niên\nAge: 13-15 tuổi\nCalcium: 1000 mg\nMagnesium: 220 mg\nPhosphorus: 1250 mg\nSelenium: 26 mcg",
+      "gold_value": null,
+      "nutrient": "Nữ vị thành niên",
+      "relevant_ids": [
+        "min_0014"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0314",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Nữ vị thành niên và vai trò của nó là gì?",
+      "gold_answer": "Group: Nữ vị thành niên\nAge: 16-18 tuổi\nCalcium: 1000 mg\nMagnesium: 240 mg\nPhosphorus: 1250 mg\nSelenium: 26 mcg",
+      "gold_value": null,
+      "nutrient": "Nữ vị thành niên",
+      "relevant_ids": [
+        "min_0015"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0315",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Nữ trưởng thành và vai trò của nó là gì?",
+      "gold_answer": "Group: Nữ trưởng thành\nAge: 19-49 tuổi\nCalcium: 700 mg\nMagnesium: 205 mg\nPhosphorus: 700 mg\nSelenium: 26 mcg",
+      "gold_value": null,
+      "nutrient": "Nữ trưởng thành",
+      "relevant_ids": [
+        "min_0016"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0316",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Nữ trưởng thành và vai trò của nó là gì?",
+      "gold_answer": "Group: Nữ trưởng thành\nAge: 50-60 tuổi\nCalcium: 1000 mg\nMagnesium: 205 mg\nPhosphorus: 700 mg\nSelenium: 26 mcg",
+      "gold_value": null,
+      "nutrient": "Nữ trưởng thành",
+      "relevant_ids": [
+        "min_0017"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0317",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Nữ trưởng thành và vai trò của nó là gì?",
+      "gold_answer": "Group: Nữ trưởng thành\nAge: > 60 tuổi\nCalcium: 1000 mg\nMagnesium: 205 mg\nPhosphorus: 700 mg\nSelenium: 25 mcg",
+      "gold_value": null,
+      "nutrient": "Nữ trưởng thành",
+      "relevant_ids": [
+        "min_0018"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0318",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Phụ nữ mang thai và vai trò của nó là gì?",
+      "gold_answer": "Group: Phụ nữ mang thai\nAge: 3 tháng đầu\nCalcium: 1000 mg\nMagnesium: 205 mg\nPhosphorus: 700 mg\nSelenium: 26 mcg",
+      "gold_value": null,
+      "nutrient": "Phụ nữ mang thai",
+      "relevant_ids": [
+        "min_0019"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0319",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Phụ nữ mang thai và vai trò của nó là gì?",
+      "gold_answer": "Group: Phụ nữ mang thai\nAge: 3 tháng giữa\nCalcium: 1000 mg\nMagnesium: 205 mg\nPhosphorus: 700 mg\nSelenium: 28 mcg",
+      "gold_value": null,
+      "nutrient": "Phụ nữ mang thai",
+      "relevant_ids": [
+        "min_0020"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0320",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Phụ nữ mang thai và vai trò của nó là gì?",
+      "gold_answer": "Group: Phụ nữ mang thai\nAge: 3 tháng cuối\nCalcium: 1000 mg\nMagnesium: 205 mg\nPhosphorus: 700 mg\nSelenium: 30 mcg",
+      "gold_value": null,
+      "nutrient": "Phụ nữ mang thai",
+      "relevant_ids": [
+        "min_0021"
+      ],
+      "tags": [
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0321",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Bà mẹ cho con bú (trong suốt cả thời kỳ cho bú) và vai trò của nó là gì?",
+      "gold_answer": "Group: Bà mẹ cho con bú (trong suốt cả thời kỳ cho bú)\nAge: 6 tháng đầu\nCalcium: 1000 mg\nMagnesium: 205 mg\nPhosphorus: 700 mg\nSelenium: 35 mcg",
+      "gold_value": null,
+      "nutrient": "Bà mẹ cho con bú (trong suốt cả thời kỳ cho bú)",
+      "relevant_ids": [
+        "min_0022"
+      ],
+      "tags": [
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0322",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Bà mẹ cho con bú (trong suốt cả thời kỳ cho bú) và vai trò của nó là gì?",
+      "gold_answer": "Group: Bà mẹ cho con bú (trong suốt cả thời kỳ cho bú)\nAge: 6 tháng sau\nCalcium: 1000 mg\nMagnesium: 205 mg\nPhosphorus: 700 mg\nSelenium: 42 mcg",
+      "gold_value": null,
+      "nutrient": "Bà mẹ cho con bú (trong suốt cả thời kỳ cho bú)",
+      "relevant_ids": [
+        "min_0023"
+      ],
+      "tags": [
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0323",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Trẻ em và vai trò của nó là gì?",
+      "gold_answer": "Group: Trẻ em\nAge: 0-6 tháng\nIodine (mcg): 90.0\nIron 5% bioavailability (mg): 0.93\nZinc high bioavailability (mg): 1.15\nZinc medium bioavailability (m",
+      "gold_value": null,
+      "nutrient": "Trẻ em",
+      "relevant_ids": [
+        "tmn_0001"
+      ],
+      "tags": [
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0324",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Trẻ em và vai trò của nó là gì?",
+      "gold_answer": "Group: Trẻ em\nAge: 6-11 tháng\nIodine (mcg): 90.0\nIron 5% bioavailability (mg): 18.6\nIron 10% bioavailability (mg): 12.4\nIron 15% bioavailability (mg):",
+      "gold_value": null,
+      "nutrient": "Trẻ em",
+      "relevant_ids": [
+        "tmn_0002"
+      ],
+      "tags": [
+        "retrieval"
+      ]
+    },
+    {
+      "id": "explain_0325",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Trẻ nhỏ và vai trò của nó là gì?",
+      "gold_answer": "Group: Trẻ nhỏ\nAge: 1-3 tuổi\nIodine (mcg): 90.0\nIron 5% bioavailability (mg): 11.6\nIron 10% bioavailability (mg): 7.7\nIron 15% bioavailability (mg): 5",
+      "gold_value": null,
+      "nutrient": "Trẻ nhỏ",
+      "relevant_ids": [
+        "tmn_0003"
+      ],
+      "tags": [
+        "text_quality"
+      ]
+    },
+    {
+      "id": "explain_0326",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Trẻ nhỏ và vai trò của nó là gì?",
+      "gold_answer": "Group: Trẻ nhỏ\nAge: 4-6 tuổi\nIodine (mcg): 90.0\nIron 5% bioavailability (mg): 12.6\nIron 10% bioavailability (mg): 8.4\nIron 15% bioavailability (mg): 6",
+      "gold_value": null,
+      "nutrient": "Trẻ nhỏ",
+      "relevant_ids": [
+        "tmn_0004"
+      ],
+      "tags": [
+        "text_quality"
+      ]
+    },
+    {
+      "id": "explain_0327",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Trẻ nhỏ và vai trò của nó là gì?",
+      "gold_answer": "Group: Trẻ nhỏ\nAge: 7-9 tuổi\nIodine (mcg): 90.0\nIron 5% bioavailability (mg): 17.8\nIron 10% bioavailability (mg): 11.9\nIron 15% bioavailability (mg): ",
+      "gold_value": null,
+      "nutrient": "Trẻ nhỏ",
+      "relevant_ids": [
+        "tmn_0005"
+      ],
+      "tags": [
+        "text_quality"
+      ]
+    },
+    {
+      "id": "explain_0328",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Nam vị thành niên và vai trò của nó là gì?",
+      "gold_answer": "Group: Nam vị thành niên\nAge: 10-14 tuổi\nIodine (mcg): 120.0\nIron 5% bioavailability (mg): 29.2\nIron 10% bioavailability (mg): 19.5\nIron 15% bioavaila",
+      "gold_value": null,
+      "nutrient": "Nam vị thành niên",
+      "relevant_ids": [
+        "tmn_0006"
+      ],
+      "tags": [
+        "text_quality"
+      ]
+    },
+    {
+      "id": "explain_0329",
+      "intent": "EXPLAIN",
+      "query": "Tại sao cơ thể cần Nam vị thành niên và vai trò của nó là gì?",
+      "gold_answer": "Group: Nam vị thành niên\nAge: 15-18 tuổi\nIodine (mcg): 150.0\nIron 5% bioavailability (mg): 37.6\nIron 10% bioavailability (mg): 25.1\nIron 15% bioavaila",
+      "gold_value": null,
+      "nutrient": "Nam vị thành niên",
+      "relevant_ids": [
+        "tmn_0007"
+      ],
+      "tags": [
+        "text_quality"
+      ]
+    },
+    {
+      "id": "recommend_0330",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Nữ vị thành niên cho 10-12 tuổi qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Nữ vị thành niên",
+      "relevant_ids": [
+        "vit_0012"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0331",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Nữ vị thành niên cho 16-18 tuổi qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Nữ vị thành niên",
+      "relevant_ids": [
+        "vit_0014"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0332",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Nữ vị thành niên cho 16-18 tuổi qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Nữ vị thành niên",
+      "relevant_ids": [
+        "min_0015"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0333",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Trẻ em cho < 6 tháng qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Trẻ em",
+      "relevant_ids": [
+        "vit_0001"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0334",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Bà mẹ cho con bú (trong suốt cả thời kỳ cho bú) cho 6 tháng sau qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Bà mẹ cho con bú (trong suốt cả thời kỳ cho bú)",
+      "relevant_ids": [
+        "min_0023"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0335",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Trẻ em cho 1-3 tuổi qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Trẻ em",
+      "relevant_ids": [
+        "vit_0003"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0336",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Nữ vị thành niên cho 10-12 tuổi qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Nữ vị thành niên",
+      "relevant_ids": [
+        "min_0013"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0337",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Trẻ em cho 6-11 tháng qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Trẻ em",
+      "relevant_ids": [
+        "vit_0002"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0338",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Nữ trưởng thành cho 50-60 tuổi qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Nữ trưởng thành",
+      "relevant_ids": [
+        "min_0017"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0339",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Nam vị thành niên cho 10-12 tuổi qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Nam vị thành niên",
+      "relevant_ids": [
+        "vit_0006"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0340",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Nam trưởng thành cho ≥60 tuổi qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Nam trưởng thành",
+      "relevant_ids": [
+        "vit_0011"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0341",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Nam trưởng thành cho 19-50 tuổi qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Nam trưởng thành",
+      "relevant_ids": [
+        "vit_0009"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0342",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Trẻ em cho 7-9 tuổi qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Trẻ em",
+      "relevant_ids": [
+        "vit_0005"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0343",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Nữ trưởng thành cho 51-60 tuổi qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Nữ trưởng thành",
+      "relevant_ids": [
+        "vit_0016"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0344",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Nam trưởng thành cho 19-49 tuổi qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Nam trưởng thành",
+      "relevant_ids": [
+        "min_0009"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0345",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Nam vị thành niên cho 13-15 tuổi qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Nam vị thành niên",
+      "relevant_ids": [
+        "min_0007"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0346",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Trẻ em cho 4-6 tuổi qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Trẻ em",
+      "relevant_ids": [
+        "vit_0004"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0347",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Trẻ nhỏ cho 1-3 tuổi qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Trẻ nhỏ",
+      "relevant_ids": [
+        "min_0003"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0348",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Phụ nữ mang thai cho 3 tháng giữa qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Phụ nữ mang thai",
+      "relevant_ids": [
+        "min_0020"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0349",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Nữ vị thành niên cho 13-15 tuổi qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Nữ vị thành niên",
+      "relevant_ids": [
+        "vit_0013"
+      ],
+      "tags": [
+        "router",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0350",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Nam vị thành niên cho 10-14 tuổi qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Nam vị thành niên",
+      "relevant_ids": [
+        "tmn_0006"
+      ],
+      "tags": [
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0351",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Trung niên ≥ 50 tuổi cho Phụ nữ cho con bú qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Trung niên ≥ 50 tuổi",
+      "relevant_ids": [
+        "tmn_0015"
+      ],
+      "tags": [
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0352",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Trẻ em cho 0-6 tháng qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Trẻ em",
+      "relevant_ids": [
+        "tmn_0001"
+      ],
+      "tags": [
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0353",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Nam vị thành niên cho 10-12 tuổi qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Nam vị thành niên",
+      "relevant_ids": [
+        "min_0006"
+      ],
+      "tags": [
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0354",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Phụ nữ mang thai cho 3 tháng đầu qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Phụ nữ mang thai",
+      "relevant_ids": [
+        "min_0019"
+      ],
+      "tags": [
+        "retrieval"
+      ]
+    },
+    {
+      "id": "recommend_0355",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Phụ nữ mang thai cho 3 tháng cuối qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Phụ nữ mang thai",
+      "relevant_ids": [
+        "min_0021"
+      ],
+      "tags": []
+    },
+    {
+      "id": "recommend_0356",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Nam trưởng thành cho 51-60 tuổi qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Nam trưởng thành",
+      "relevant_ids": [
+        "vit_0010"
+      ],
+      "tags": []
+    },
+    {
+      "id": "recommend_0357",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Trẻ nhỏ cho 4-6 tuổi qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Trẻ nhỏ",
+      "relevant_ids": [
+        "tmn_0004"
+      ],
+      "tags": []
+    },
+    {
+      "id": "recommend_0358",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Nữ vị thành niên cho 10-12 tuổi (chưa có kinh nguyệt) qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Nữ vị thành niên",
+      "relevant_ids": [
+        "min_0012"
+      ],
+      "tags": []
+    },
+    {
+      "id": "recommend_0359",
+      "intent": "RECOMMEND",
+      "query": "Làm sao để bổ sung đủ Trung niên ≥ 50 tuổi cho Nam qua ăn uống?",
+      "gold_answer": "Khuyến nghị chế độ ăn",
+      "gold_value": null,
+      "nutrient": "Trung niên ≥ 50 tuổi",
+      "relevant_ids": [
+        "tmn_0012"
+      ],
+      "tags": [
+        "ragas"
+      ]
+    }
+  ],
+  "subsets": {
+    "router": 80,
+    "retrieval": 100,
+    "numeric_em": 50,
+    "text_quality": 5,
+    "ragas": 50
+  }
+}
